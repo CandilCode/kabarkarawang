@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.kabarkarawang.com/sitemap.xml
+Sitemap: https://kabarkarawang.com/sitemap.xml
